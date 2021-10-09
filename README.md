@@ -41,4 +41,24 @@ Future Possible Functionalities
 # Unit Testing
 ![image](https://user-images.githubusercontent.com/68457730/136668687-cda2a231-568b-4f68-8b17-ca3810227f3a.png)
 
+# Inserting User
+![image](https://user-images.githubusercontent.com/68457730/136668719-8749c0f8-1cb1-4db8-974e-f4930ba58a74.png)
+
+# Getting User
+![image](https://user-images.githubusercontent.com/68457730/136668745-aa0bbf84-29d1-4f98-b5cb-4506772899b5.png)
+
+# Creating Post
+![image](https://user-images.githubusercontent.com/68457730/136668795-4abdee31-8f50-404e-90e3-fbcfa65c9b04.png)
+
+# Getting Post
+![image](https://user-images.githubusercontent.com/68457730/136668828-d9d7609f-1f80-45c6-9eaa-90897a276b19.png)
+
+# Getting All Posts of User
+![image](https://user-images.githubusercontent.com/68457730/136668841-e17f1ea5-f085-48e8-8022-0588775edc2f.png)
+
+
+
+
+
+
 
